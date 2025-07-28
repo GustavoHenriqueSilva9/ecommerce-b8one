@@ -4,9 +4,9 @@ import ProductCard from '../components/ProductCard';
 import type { Product } from '../types/Product';
 
 const bannerImages = [
-  '../../public/banners/banner1.png',
-  '../../public/banners/banner2.png',
-  '../../public/banners/banner3.png',
+  '/banners/banner1.png',
+  '/banners/banner2.png',
+  '/banners/banner3.png',
 ];
 
 const bannerImagesMobile = [
